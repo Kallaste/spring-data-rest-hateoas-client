@@ -1,5 +1,5 @@
 # spring-data-rest-hateoas-client
-Consuming HATEOAS Resources using Spring Rest Templates (http://techknowsurfer.com/spring/consuming-hateoas-resources-using-spring-rest-templates)
+Consuming HATEOAS Resources using Spring Rest Templates (http://techknowsurfer.com/springboot/consuming-hateoas-resources-using-spring-rest-templates)
 
 Code to demonstrate how to consume the Hypertext Application Language (HAL) resource using Spring`s Rest Template
 
